@@ -25,7 +25,8 @@
     "@umijs/preset-react": "1.x",
     "react-copy-to-clipboard": "^5.0.3",
     "typed.js": "^2.0.12",
-    "umi": "^3.4.15"
+    "umi": "^3.4.15",
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",

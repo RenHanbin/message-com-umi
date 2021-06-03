@@ -46,6 +46,12 @@ export const routes: IBestAFSRoute[] = [
         name: 'account-list',
         exact: true,
       },
+      {
+        path: '/home/file-manage',
+        component: '@/pages/home/file-manage',
+        name: 'file-manage',
+        exact: true,
+      },
     ],
   },
 ];
